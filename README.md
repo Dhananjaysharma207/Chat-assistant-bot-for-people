@@ -148,3 +148,4 @@ If you are new to Microsoft Azure, please refer to [Getting started with Azure][
 
 [71]: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/improve-knowledge-base
 [72]: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/multiturn-conversation
+https://dhananjaysharma207.github.io/Chat-assistant-bot-for-people/ tap here for a quick recap of my project.
