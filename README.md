@@ -3,20 +3,35 @@
 https://portal.azure.com/#@dhananjaysharma207outlook.onmicrosoft.com/resource/subscriptions/355045d5-ce60-484e-8ca3-8fe243d73abc/resourceGroups/proj1/providers/Microsoft.BotService/botServices/healbot3/overview
 
 
+# USE OF AZURE SERVICE IN THIS PROJECT :-
+
+This project “The chat assistant bot for people” is made by me using the azure  services like QNAmaker,App services and App in which I have created the QNAmaker for the bot by providing the necessary details and then created it by reviewing it ,finally I have created a knowledge base to complete the QNAmaker process by providing the web site URL i.e.“https://www.cdc.gov/coronavirus/2019-ncov/faq.html” from which my bot will take the question and answer accordingly to the basic queries on covid-19 , after successfully deploying my project on the azure services I concluded my project.
+This project is purely made using the azure modules and services .
 
 
 # Output
 
 ![Screenshot (8944)](https://user-images.githubusercontent.com/92742019/150644504-b8b122c4-54c4-4123-b632-5fefef617743.png)
+
 ![Screenshot (8945)](https://user-images.githubusercontent.com/92742019/150644549-e7e7d245-56f7-46b5-bf59-77be42abbe3f.png)
+
 ![Screenshot (8946)](https://user-images.githubusercontent.com/92742019/150644563-35b86719-e336-43b1-8de1-24f8615c775b.png)
+
 ![Screenshot (8947)](https://user-images.githubusercontent.com/92742019/150644617-6dc87193-9ae6-4eac-8082-535c4c750568.png)
+
 ![Screenshot (8948)](https://user-images.githubusercontent.com/92742019/150644627-7170b83b-f2c4-401c-9f33-7a431952a0e0.png)
+
 ![Screenshot (8949)](https://user-images.githubusercontent.com/92742019/150644641-147ac911-3a5a-4ad9-bd4b-d03beedb857f.png)
+
 ![Screenshot (8950)](https://user-images.githubusercontent.com/92742019/150644650-6631bc1f-abf0-4dfa-950e-13f42fcf173d.png)
+
 ![Screenshot (8951)](https://user-images.githubusercontent.com/92742019/150644682-f5a11395-60c9-44f4-8c2d-d4ccf185d939.png)
+
 ![Screenshot (8952)](https://user-images.githubusercontent.com/92742019/150644695-220d4f59-f9ab-4833-9bae-9342580f1d0b.png)
+
 ![Screenshot (8953)](https://user-images.githubusercontent.com/92742019/150644723-74655835-e5ff-4628-80c9-d5793131848f.png)
+
+
 
 # Project URL
 
